@@ -7,6 +7,4 @@
 
 - Image processing
 - Matlab
-- Algorithms
-   -- KNN
-   -- SVM
+- Algorithms - KNN and SVM
